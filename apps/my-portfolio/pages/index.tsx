@@ -8,7 +8,7 @@ export function Index() {
    */
   return (
     <div className={styles.page}>
-            Nextjs Works Correctly
+          <h1>Great work i love it</h1>
     </div>
   );
 }
